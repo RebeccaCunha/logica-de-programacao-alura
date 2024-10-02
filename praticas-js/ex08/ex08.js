@@ -43,9 +43,11 @@ let maior = maiorNumero(7,10);
 console.log(maior);
 */
 
-//Criar uma função que recebe um número como parâmetro e retorna o resultado da multiplicação desse número por ele mesmo.
+/*Criar uma função que recebe um número como parâmetro e retorna o resultado da multiplicação desse número por ele mesmo.
 function multiplicarPorSiMesmo(numero) {
     return numero * numero
 }
 let resultado = multiplicarPorSiMesmo(5);
 console.log(resultado);
+*/
+
